@@ -1,0 +1,5 @@
+{
+  "name": "PodGen.ai - Multilingual Podcast Creator",
+  "description": "Generate realistic multi-speaker podcasts in various Indian languages using Google Gemini 2.5 Flash and TTS. No Python backend required.",
+  "requestFramePermissions": []
+}
